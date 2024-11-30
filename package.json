@@ -3,7 +3,8 @@
     "@babel/core": "^7.22.20",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.3",
-    "webpack": "^5.88.2"
+    "webpack": "^5.88.2",
+    "webpack-dev-server": "^5.1.0"
   },
   "dependencies": {
     "babel": "^6.23.0",
@@ -14,7 +15,8 @@
     "webpack-cli": "^5.1.4"
   },
   "scripts": {
-    "dev": "npx webpack watch --mode development",
+    "watch": "npx webpack watch --mode development",
+    "dev": "npx webpack serve --live-reload --mode development --progress",
     "build": "npx webpack build --mode production"
   }
 }

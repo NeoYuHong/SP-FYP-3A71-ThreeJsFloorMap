@@ -5,7 +5,8 @@ module.exports = {
     entry: './src/index.js',
     output: {
         path: path.resolve(__dirname, "dist"),
-        filename: "webpack.bundle.js"
+        filename: "[name].js",
+        chunkFilename: '[id].[chunkhash].js'
     },
     plugins: [
         new HtmlWebpackPlugin({
@@ -13,6 +14,15 @@ module.exports = {
             template: 'src/index.html'
         })
     ],
+    devServer: {
+        open: true,
+    },
+    optimization: {
+        runtimeChunk: true,
+        splitChunks: {
+            chunks: 'all'
+        }
+    },
     module: {
         rules: [
             {
