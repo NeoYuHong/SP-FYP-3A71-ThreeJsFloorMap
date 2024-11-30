@@ -186,6 +186,20 @@ function onHover(item) {
     }
 }
 
+function onResize() {
+    // Update the renderer size
+    renderer.setSize(window.innerWidth, window.innerHeight);
+
+    // Update the camera aspect ratio
+    camera.aspect = window.innerWidth / window.innerHeight;
+    camera.updateProjectionMatrix();
+}
+
+// Attach the resize event listener
+window.addEventListener("resize", onResize);
+
+// Initial setup
+onResize();
 
 
 function animate(frame) {
