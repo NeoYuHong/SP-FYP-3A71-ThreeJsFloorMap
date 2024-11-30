@@ -3,6 +3,9 @@ import { MapControls } from 'three/addons/controls/MapControls.js';
 import * as THREE from 'three';
 import floor1 from './floor1.glb';
 import * as dat from 'dat.gui';
+import Stats from 'three/examples/jsm/libs/stats.module.js';
+
+var stats = new Stats();
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 1, 1000);
@@ -203,6 +206,8 @@ onResize();
 
 
 function animate(frame) {
+    stats.begin(); // Begin stats measurement
+    stats.end(); // End stats measurement
     requestAnimationFrame(animate);
     onHover(floorScene)
     renderer.render(scene, camera);
