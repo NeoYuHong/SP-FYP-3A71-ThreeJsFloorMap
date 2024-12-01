@@ -1,0 +1,2454 @@
+[
+	{
+		"id": 3392,
+		"floor": "1",
+		"coordinate": "605,250 629,225 652,238 626, 263",
+		"unit_number": "#01-33",
+		"stores": [
+			{
+				"id": "3971",
+				"store_name": "Management Office",
+				"store_unit": "#01-33",
+				"store_opening_hours": ["Mon - Fri 8.30am - 6pm", "Sat - Sun and PH Closed"],
+				"store_images": [
+					{
+						"ID": "3972",
+						"post_author": "3",
+						"post_date": "2024-03-25 15: 32: 42",
+						"post_date_gmt": "2024-03-25 07: 32: 42",
+						"post_content": "",
+						"post_title": "JLL",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "jll",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-25 15: 32: 42",
+						"post_modified_gmt": "2024-03-25 07: 32: 42",
+						"post_content_filtered": "",
+						"post_parent": "3971",
+						"guid": "https: //www.brasbasahcomplex.com/wp-content/uploads/2024/03/JLL.png",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/png",
+						"comment_count": "0",
+						"pod_item_id": "3972"
+					}
+				],
+				"store_phone_number": "63383213",
+				"store_description": "Jones Lang LaSalle - Property & Investment Services",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Service",
+						"id": 64
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3378,
+		"floor": "1",
+		"coordinate": "362,317 398,337 399,351 426,329 426,312 389,292",
+		"unit_number": "#01-53",
+		"stores": [
+			{
+				"id": "2904",
+				"store_name": "Toast Box",
+				"store_unit": "#01-53",
+				"store_opening_hours": ["Daily 7.30am - 7.30pm"],
+				"store_images": [
+					{
+						"ID": "3819",
+						"post_author": "3",
+						"post_date": "2024-03-18 16:55:59",
+						"post_date_gmt": "2024-03-18 08:55:59",
+						"post_content": "",
+						"post_title": "Toastbox",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "toastbox",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 16:55:59",
+						"post_modified_gmt": "2024-03-18 08:55:59",
+						"post_content_filtered": "",
+						"post_parent": "2904",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2017/11/Toastbox.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3819"
+					}
+				],
+				"store_phone_number": "",
+				"store_description": "Step inside and be greeted by the fragrance of coffee made from freshly-ground caramelised coffee beans, complemented by a menu of familiar home favourites. The enticing aroma of brewed coffee and flavourful local delights infuse vibrancy of life into every store, bringing people together to share in the nostalgic taste of a bygone era.",
+				"store_facebook_url": "https://www.facebook.com/toastboxsingapore/",
+				"store_instagram_url": "https://www.instagram.com/toastboxsg/?hl=en",
+				"store_website": "https://www.toastbox.com.sg/store/bras-basah-complex/",
+				"categories": [
+					{
+						"name": "Food and Dining",
+						"id": 46
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3377,
+		"floor": "1",
+		"coordinate": "403,279 440,302 439,319 426,329 426,312 389,292",
+		"unit_number": "#01-51",
+		"stores": [
+			{
+				"id": "2904",
+				"store_name": "Toast Box",
+				"store_unit": "#01-51",
+				"store_opening_hours": ["Daily 7.30am - 7.30pm"],
+				"store_images": [
+					{
+						"ID": "3819",
+						"post_author": "3",
+						"post_date": "2024-03-18 16:55:59",
+						"post_date_gmt": "2024-03-18 08:55:59",
+						"post_content": "",
+						"post_title": "Toastbox",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "toastbox",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 16:55:59",
+						"post_modified_gmt": "2024-03-18 08:55:59",
+						"post_content_filtered": "",
+						"post_parent": "2904",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2017/11/Toastbox.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3819"
+					}
+				],
+				"store_phone_number": "",
+				"store_description": "Step inside and be greeted by the fragrance of coffee made from freshly-ground caramelised coffee beans, complemented by a menu of familiar home favourites. The enticing aroma of brewed coffee and flavourful local delights infuse vibrancy of life into every store, bringing people together to share in the nostalgic taste of a bygone era.",
+				"store_facebook_url": "https://www.facebook.com/toastboxsingapore/",
+				"store_instagram_url": "https://www.instagram.com/toastboxsg/?hl=en",
+				"store_website": "https://www.toastbox.com.sg/store/bras-basah-complex/",
+				"categories": [
+					{
+						"name": "Food and Dining",
+						"id": 46
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3365,
+		"floor": "1",
+		"coordinate": "489,59 492,53 520,67 513,73",
+		"unit_number": "#01-K1",
+		"stores": []
+	},
+	{
+		"id": 3364,
+		"floor": "1",
+		"coordinate": "581,238 601,250 575,276 573,290 551,277 552,264",
+		"unit_number": "#01-45",
+		"stores": []
+	},
+	{
+		"id": 3363,
+		"floor": "1",
+		"coordinate": "295,236 326,255 336,246 335,231 306,213 296,222",
+		"unit_number": "#01-19",
+		"stores": []
+	},
+	{
+		"id": 3295,
+		"floor": "1",
+		"coordinate": "644,229 646,214 689,175 754,215 753,230 744,235 729,241 744,248 741,264 727,273",
+		"unit_number": "#01-29",
+		"stores": [
+			{
+				"id": "717",
+				"store_name": "Shine Korea",
+				"store_unit": "#01-29",
+				"store_opening_hours": ["Mon - Fri 10.30am - 9.30pm"],
+				"store_images": [
+					{
+						"ID": "2878",
+						"post_author": "1",
+						"post_date": "2024-01-30 10:25:38",
+						"post_date_gmt": "2024-01-30 02:25:38",
+						"post_content": "",
+						"post_title": "4118f40abcd18027c0ebac14b09722a8",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "closed",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "4118f40abcd18027c0ebac14b09722a8",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-02-22 21:48:58",
+						"post_modified_gmt": "2024-02-22 13:48:58",
+						"post_content_filtered": "",
+						"post_parent": "717",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2023/12/4118f40abcd18027c0ebac14b09722a8.jpeg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "2878"
+					}
+				],
+				"store_phone_number": "6336 1496",
+				"store_description": "Your go-to-place for AUTHENTIC KOREAN products at the BEST PRICE.",
+				"store_facebook_url": "https://www.facebook.com/shinekorea",
+				"store_instagram_url": "https://www.instagram.com/shinekorea",
+				"store_website": "https://shinekorea.com.sg/",
+				"categories": [
+					{
+						"name": "Food and Dining",
+						"id": 46
+					}
+				],
+				"story": false
+			},
+			{
+				"id": "2886",
+				"store_name": "UOB ATM",
+				"store_unit": "#01-29",
+				"store_opening_hours": ["24 Hours"],
+				"store_images": [
+					{
+						"ID": "3799",
+						"post_author": "3",
+						"post_date": "2024-03-18 14:49:15",
+						"post_date_gmt": "2024-03-18 06:49:15",
+						"post_content": "",
+						"post_title": "UOB",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "uob",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 14:49:15",
+						"post_modified_gmt": "2024-03-18 06:49:15",
+						"post_content_filtered": "",
+						"post_parent": "2886",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/UOB.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3799"
+					}
+				],
+				"store_phone_number": "N/A",
+				"store_description": "The store does not have a description.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "https://www.uob.com.sg/online-branch/locate-us.page",
+				"categories": [
+					{
+						"name": "Service",
+						"id": 64
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3300,
+		"floor": "1",
+		"coordinate": "432,377 491,411 526,380 492,360 485,367 457,351",
+		"unit_number": "#01-75",
+		"stores": [
+			{
+				"id": "724",
+				"store_name": "Crusts and Crumbs",
+				"store_unit": "#01-75",
+				"store_opening_hours": ["Mon - Fri 8am - 8pm", "Sun 8.30am - 7pm", "Sat Closed"],
+				"store_images": [
+					{
+						"ID": "3821",
+						"post_author": "3",
+						"post_date": "2024-03-19 15:45:44",
+						"post_date_gmt": "2024-03-19 07:45:44",
+						"post_content": "",
+						"post_title": "crusts",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "crusts",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-19 15:45:44",
+						"post_modified_gmt": "2024-03-19 07:45:44",
+						"post_content_filtered": "",
+						"post_parent": "724",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/crusts.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3821"
+					}
+				],
+				"store_phone_number": "6022 1920",
+				"store_description": "The store does not have a description.",
+				"store_facebook_url": "https://www.facebook.com/crustsncrumbs/",
+				"store_instagram_url": "",
+				"store_website": "https://www.crustncrumbs.sg/wp-content/uploads/2024/02/crumbs-catalog-fix.pdf",
+				"categories": [
+					{
+						"name": "Food and Dining",
+						"id": 46
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3299,
+		"floor": "1",
+		"coordinate": "621,217 622,200 664,160 686,174 643,213 642,228",
+		"unit_number": "#01-27",
+		"stores": [
+			{
+				"id": "722",
+				"store_name": "Ultra Value",
+				"store_unit": "#01-27",
+				"store_opening_hours": ["Mon - Sun and PH, 7.30am - 8pm"],
+				"store_images": [
+					{
+						"ID": "3926",
+						"post_author": "3",
+						"post_date": "2024-03-25 13:43:20",
+						"post_date_gmt": "2024-03-25 05:43:20",
+						"post_content": "",
+						"post_title": "value",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "value",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-25 13:43:20",
+						"post_modified_gmt": "2024-03-25 05:43:20",
+						"post_content_filtered": "",
+						"post_parent": "722",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/value.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3926"
+					}
+				],
+				"store_phone_number": "8666 5706",
+				"store_description": "The store does not have a description.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Food and Dining",
+						"id": 46
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3298,
+		"floor": "1",
+		"coordinate": "280,394 316,415 317,429 343,406 344,390 306,369",
+		"unit_number": "#01-59",
+		"stores": [
+			{
+				"id": "721",
+				"store_name": "Tong Tong Friendship Store",
+				"store_unit": "#01-59",
+				"store_opening_hours": ["Mon – Sat: 12-8pm", "Sun & Public Holidays: Closed"],
+				"store_images": [
+					{
+						"ID": "3882",
+						"post_author": "3",
+						"post_date": "2024-03-21 22:40:18",
+						"post_date_gmt": "2024-03-21 14:40:18",
+						"post_content": "",
+						"post_title": "tong-tong",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "tong-tong",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-21 22:40:18",
+						"post_modified_gmt": "2024-03-21 14:40:18",
+						"post_content_filtered": "",
+						"post_parent": "721",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/tong-tong.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3882"
+					}
+				],
+				"store_phone_number": "6396 3887",
+				"store_description": "The store does not have a description.",
+				"store_facebook_url": "",
+				"store_instagram_url": "https://www.instagram.com/tongtongfriendshipstore/",
+				"store_website": "https://tongtong.sg/",
+				"categories": [
+					{
+						"name": "Shopping and Lifestyle",
+						"id": 59
+					}
+				],
+				"story": "tong-tong-friendship-store"
+			},
+			{
+				"id": "691",
+				"store_name": "Converge Art Gallery",
+				"store_unit": "#01-59A",
+				"store_opening_hours": ["Mon - Fri 12.30pm - 5.30pm", "Sat and Sun: By appointment only"],
+				"store_images": [
+					{
+						"ID": "2134",
+						"post_author": "1",
+						"post_date": "2023-12-03 20:33:45",
+						"post_date_gmt": "2023-12-03 20:33:45",
+						"post_content": "",
+						"post_title": "36e125_e109be512e4642a5aa5244097430c8c5~mv2",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "open",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "36e125_e109be512e4642a5aa5244097430c8c5mv2",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-02-22 00:17:35",
+						"post_modified_gmt": "2024-02-21 16:17:35",
+						"post_content_filtered": "",
+						"post_parent": "691",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2023/12/36e125_e109be512e4642a5aa5244097430c8c5mv2.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "2134"
+					}
+				],
+				"store_phone_number": "9796 5011",
+				"store_description": "Converge Art Gallery was founded in 2018 with a special focus on oriental art, in particular the Chinese ink painting and calligraphy.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Arts and Culture",
+						"id": 23
+					}
+				],
+				"story": "converge-art-gallery"
+			}
+		]
+	},
+	{
+		"id": 3297,
+		"floor": "1",
+		"coordinate": "258,197 275,206 300,211 305,214 309,210 415,112 366,82 259,182",
+		"unit_number": "#01-03",
+		"stores": [
+			{
+				"id": "719",
+				"store_name": "Singapore Post Office",
+				"store_unit": "#01-03",
+				"store_opening_hours": ["Mon - Fri 8.30am - 5pm, Sat 8.30am - 1pm, Sun & PH Closed"],
+				"store_images": [
+					{
+						"ID": "3791",
+						"post_author": "3",
+						"post_date": "2024-03-18 13:20:16",
+						"post_date_gmt": "2024-03-18 05:20:16",
+						"post_content": "",
+						"post_title": "1992-singapore-post-480x",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "1992-singapore-post-480x",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 13:20:16",
+						"post_modified_gmt": "2024-03-18 05:20:16",
+						"post_content_filtered": "",
+						"post_parent": "719",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/1992-singapore-post-480x.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3791"
+					}
+				],
+				"store_phone_number": "6841 2000",
+				"store_description": "Singapore Post offers postage, mail, logistics, eCommerce, philatelic and business solutions.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "https://www.singpost.com/",
+				"categories": [
+					{
+						"name": "Service",
+						"id": 64
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3296,
+		"floor": "1",
+		"coordinate": "335,342 371,362 372,376 399,354 399,337 362,317",
+		"unit_number": "#01-55",
+		"stores": [
+			{
+				"id": "718",
+				"store_name": "Sims Galleria",
+				"store_unit": "#01-55",
+				"store_opening_hours": ["Tuesday - Sunday: 11am to 6pm"],
+				"store_images": [
+					{
+						"ID": "3820",
+						"post_author": "3",
+						"post_date": "2024-03-18 16:59:53",
+						"post_date_gmt": "2024-03-18 08:59:53",
+						"post_content": "",
+						"post_title": "sims",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "sims",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 16:59:53",
+						"post_modified_gmt": "2024-03-18 08:59:53",
+						"post_content_filtered": "",
+						"post_parent": "718",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/sims.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3820"
+					}
+				],
+				"store_phone_number": "8030 0078",
+				"store_description": "Here at Sims Galleria, we enable you to be in touch with the artist within.\r\n\r\nYou will be able to learn your favorite musical instrument or even learn to paint the Monalisa.\r\n\r\nRelax, enjoy and kindle the artist within",
+				"store_facebook_url": "https://www.facebook.com/simsgalleria/",
+				"store_instagram_url": "https://www.instagram.com/simsgalleria/",
+				"store_website": "https://linktr.ee/simsgalleria?fbclid=IwAR2zslvtNK36IgClkGif_CbaD8PVCRT1YieNKeufXR4EhsO_j0IwDt9AOHY",
+				"categories": [
+					{
+						"name": "Arts and Culture",
+						"id": 23
+					},
+					{
+						"name": "Music Schools and Shops",
+						"id": 57
+					}
+				],
+				"story": "sims-galleria"
+			}
+		]
+	},
+	{
+		"id": 3294,
+		"floor": "1",
+		"coordinate": "470,351 492,351 499,355 492,361 524,381 538,369 505,351 512,343 485,326 470,339",
+		"unit_number": "#01-77",
+		"stores": [
+			{
+				"id": "716",
+				"store_name": "Shalom Color Lab (Fujifilm)",
+				"store_unit": "#01-77",
+				"store_opening_hours": ["Mon - Sat 10am - 7pm", "Sun and PH Closed"],
+				"store_images": [
+					{
+						"ID": "3830",
+						"post_author": "3",
+						"post_date": "2024-03-20 14:48:04",
+						"post_date_gmt": "2024-03-20 06:48:04",
+						"post_content": "",
+						"post_title": "shalom",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "shalom",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-20 14:48:04",
+						"post_modified_gmt": "2024-03-20 06:48:04",
+						"post_content_filtered": "",
+						"post_parent": "716",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/shalom.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3830"
+					}
+				],
+				"store_phone_number": "63381032",
+				"store_description": "Keeping pace with advances in photography technology, we upgraded our film processing operations from traditional skills to digitized system in 2009. Our commitment to our customers is to spare no effort in providing quality product and services.",
+				"store_facebook_url": "https://www.facebook.com/shalomcolor/",
+				"store_instagram_url": "",
+				"store_website": "https://www.shalomcolor.com.sg/",
+				"categories": [
+					{
+						"name": "Print",
+						"id": 42
+					}
+				],
+				"story": "shalom-color-lab-fujifilm"
+			}
+		]
+	},
+	{
+		"id": 3293,
+		"floor": "1",
+		"coordinate": "319,202 348,218 356,215 366,219 381,243 411,218 410,207 352,171",
+		"unit_number": "#01-17",
+		"stores": [
+			{
+				"id": "715",
+				"store_name": "Seng Yew Book Store",
+				"store_unit": "#01-17",
+				"store_opening_hours": ["Mon - Sat 10am - 7pm", "Sun 11am - 5pm", "PH Closed"],
+				"store_images": [
+					{
+						"ID": "3794",
+						"post_author": "3",
+						"post_date": "2024-03-18 14:03:54",
+						"post_date_gmt": "2024-03-18 06:03:54",
+						"post_content": "",
+						"post_title": "236580704_102638878799554_6586791411933733867_n",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "236580704_102638878799554_6586791411933733867_n",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 14:03:54",
+						"post_modified_gmt": "2024-03-18 06:03:54",
+						"post_content_filtered": "",
+						"post_parent": "715",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/236580704_102638878799554_6586791411933733867_n.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3794"
+					}
+				],
+				"store_phone_number": "6336 2447",
+				"store_description": "We provide stationary and art supplies",
+				"store_facebook_url": "https://www.facebook.com/p/Seng-Yew-Book-Store-%E8%83%9C%E5%8F%8B%E4%B9%A6%E5%B1%80-100071821774931/",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Art Supplies",
+						"id": 50
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3292,
+		"floor": "1",
+		"coordinate": "368,82 418,112 426,116 442,105 440,91 450,81 404,52",
+		"unit_number": "#01-05",
+		"stores": [
+			{
+				"id": "711",
+				"store_name": "Narrative Coffee Stand",
+				"store_unit": "#01-05A",
+				"store_opening_hours": ["Mon - Tues 9am - 4pm", "Weds - Fri 10am - 4pm", "Sat - Sun 10am - 5pm"],
+				"store_images": [
+					{
+						"ID": "3803",
+						"post_author": "3",
+						"post_date": "2024-03-18 15:36:32",
+						"post_date_gmt": "2024-03-18 07:36:32",
+						"post_content": "",
+						"post_title": "narrative",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "narrative",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 15:36:32",
+						"post_modified_gmt": "2024-03-18 07:36:32",
+						"post_content_filtered": "",
+						"post_parent": "711",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/narrative.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3803"
+					}
+				],
+				"store_phone_number": "9488 4493",
+				"store_description": "Endeavoured to give an amazing service experience to every single customer. We hope to bring fun and approachability to the product we love - coffee.",
+				"store_facebook_url": "https://www.facebook.com/narrativecoffeestandsg",
+				"store_instagram_url": "",
+				"store_website": "https://narrativecoffeestand.com/",
+				"categories": [
+					{
+						"name": "Food and Dining",
+						"id": 46
+					}
+				],
+				"story": false
+			},
+			{
+				"id": "714",
+				"store_name": "San-Ee Art Gallery Pte Ltd",
+				"store_unit": "#01-05",
+				"store_opening_hours": ["N/A"],
+				"store_images": [
+					{
+						"ID": "3927",
+						"post_author": "3",
+						"post_date": "2024-03-25 13:46:36",
+						"post_date_gmt": "2024-03-25 05:46:36",
+						"post_content": "",
+						"post_title": "san ee",
+						"post_excerpt": "???????????????????",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "san-ee",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-25 13:46:36",
+						"post_modified_gmt": "2024-03-25 05:46:36",
+						"post_content_filtered": "",
+						"post_parent": "714",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/san-ee.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3927"
+					}
+				],
+				"store_phone_number": "6339 1002",
+				"store_description": "The store does not have a description.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Arts and Culture",
+						"id": 23
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3291,
+		"floor": "1",
+		"coordinate": "601,204 602,187 644,147 666,161 624,200 622,215",
+		"unit_number": "#01-25",
+		"stores": [
+			{
+				"id": "713",
+				"store_name": "Prestige Time",
+				"store_unit": "#01-25",
+				"store_opening_hours": ["Mon - Sun and PH, 11.30am - 7pm"],
+				"store_images": [
+					{
+						"ID": "3797",
+						"post_author": "3",
+						"post_date": "2024-03-18 14:33:00",
+						"post_date_gmt": "2024-03-18 06:33:00",
+						"post_content": "",
+						"post_title": "prestige",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "prestige",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 14:33:00",
+						"post_modified_gmt": "2024-03-18 06:33:00",
+						"post_content_filtered": "",
+						"post_parent": "713",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/prestige.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3797"
+					}
+				],
+				"store_phone_number": "6339 3837",
+				"store_description": "Watches | Pens | Electronic Dictionaries | Hewlett Packard Cal",
+				"store_facebook_url": "https://www.facebook.com/whichwatchnext/",
+				"store_instagram_url": "",
+				"store_website": "https://linktr.ee/whichwatchnext?fbclid=IwAR1bL4_77TtiCAEj2lbM90HUBc7tY4SR982PmH0j1Jid6fPGfjm-GMNbLio",
+				"categories": [
+					{
+						"name": "Writing and Timepieces",
+						"id": 45
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3290,
+		"floor": "1",
+		"coordinate": "385,141 415,157 423,151 436,159 435,176 452,184 477,158 478,146 418,110",
+		"unit_number": "#01-11",
+		"stores": [
+			{
+				"id": "712",
+				"store_name": "One Sign",
+				"store_unit": "#01-11",
+				"store_opening_hours": ["Mon - Fri 10am to 7pm", "Sat 10 to 3pm", "Closed Sun & PH"],
+				"store_images": [
+					{
+						"ID": "3792",
+						"post_author": "3",
+						"post_date": "2024-03-18 13:58:23",
+						"post_date_gmt": "2024-03-18 05:58:23",
+						"post_content": "",
+						"post_title": "276164318_3134634790147896_7683644359480610984_n",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "276164318_3134634790147896_7683644359480610984_n",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 13:58:23",
+						"post_modified_gmt": "2024-03-18 05:58:23",
+						"post_content_filtered": "",
+						"post_parent": "712",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/276164318_3134634790147896_7683644359480610984_n.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3792"
+					}
+				],
+				"store_phone_number": "6336 1711",
+				"store_description": "Large Format Printing, Silkscreen Printing, Vinyl Sticker Cutting, Laser Cutting & Engraving",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "https://www.onesign.biz/",
+				"categories": [
+					{
+						"name": "Print",
+						"id": 42
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3287,
+		"floor": "1",
+		"coordinate": "252,419 288,440 289,454 316,431 316,415 279,394",
+		"unit_number": "#01-61",
+		"stores": [
+			{
+				"id": "685",
+				"store_name": "CASEFACTORIE Pte Ltd",
+				"store_unit": "#01-61A",
+				"store_opening_hours": ["Mon - Fri 11am - 8pm", "Sat - Sun 11-9pm"],
+				"store_images": [
+					{
+						"ID": "3826",
+						"post_author": "3",
+						"post_date": "2024-03-20 14:20:59",
+						"post_date_gmt": "2024-03-20 06:20:59",
+						"post_content": "",
+						"post_title": "case",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "case",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-20 14:20:59",
+						"post_modified_gmt": "2024-03-20 06:20:59",
+						"post_content_filtered": "",
+						"post_parent": "685",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/case.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3826"
+					}
+				],
+				"store_phone_number": "9893 3389",
+				"store_description": "The store does not have a description.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "https://casefactorie.com/",
+				"categories": [
+					{
+						"name": "Shopping and Lifestyle",
+						"id": 59
+					}
+				],
+				"story": false
+			},
+			{
+				"id": "708",
+				"store_name": "Mo Bao Fang",
+				"store_unit": "#01-61",
+				"store_opening_hours": ["N/A"],
+				"store_images": [
+					{
+						"ID": "3925",
+						"post_author": "3",
+						"post_date": "2024-03-25 13:40:56",
+						"post_date_gmt": "2024-03-25 05:40:56",
+						"post_content": "",
+						"post_title": "mo bao fang",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "mo-bao-fang-2",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-25 13:40:56",
+						"post_modified_gmt": "2024-03-25 05:40:56",
+						"post_content_filtered": "",
+						"post_parent": "708",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/mo-bao-fang.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3925"
+					}
+				],
+				"store_phone_number": "N/A",
+				"store_description": "The store does not have a description.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Art Supplies",
+						"id": 50
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3285,
+		"floor": "1",
+		"coordinate": "352,171 411,205 411,217 434,197 436,182 413,168 417,161 384,142",
+		"unit_number": "#01-15",
+		"stores": [
+			{
+				"id": "706",
+				"store_name": "Lim Sign",
+				"store_unit": "#01-15",
+				"store_opening_hours": ["Mon - Fri 10.15am - 7pm", "Sat 11am - 4pm", "Sun and PH Closed"],
+				"store_images": [
+					{
+						"ID": "3825",
+						"post_author": "3",
+						"post_date": "2024-03-20 13:58:53",
+						"post_date_gmt": "2024-03-20 05:58:53",
+						"post_content": "",
+						"post_title": "WhatsApp Image 2024-03-19 at 6.01.07 PM",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "whatsapp-image-2024-03-19-at-6-01-07-pm",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-20 13:58:53",
+						"post_modified_gmt": "2024-03-20 05:58:53",
+						"post_content_filtered": "",
+						"post_parent": "706",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2017/11/WhatsApp-Image-2024-03-19-at-6.01.07-PM.jpeg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3825"
+					}
+				],
+				"store_phone_number": "63360443",
+				"store_description": "Lim Sign performs top-notch quality sign board design and printing services, outstanding branding signage in Singapore. We are famous for its dedicated team members with over 20 years of experience in the sign board printing & signage industry.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "https://www.limsign.com.sg/",
+				"categories": [
+					{
+						"name": "Print",
+						"id": 42
+					}
+				],
+				"story": "lim-sign"
+			}
+		]
+	},
+	{
+		"id": 3284,
+		"floor": "1",
+		"coordinate": "406,413 407,399 430,375 491,411 457,440 427,422 432,416 425,424",
+		"unit_number": "#01-73",
+		"stores": [
+			{
+				"id": "684",
+				"store_name": "C&T Sports Trading",
+				"store_unit": "#01-73A",
+				"store_opening_hours": ["Mon - Weds, Fri - Sat10.30am - 7pm", "Sun & PH 10.30am - 6pm", "Thursday Closed"],
+				"store_images": [
+					{
+						"ID": "3924",
+						"post_author": "3",
+						"post_date": "2024-03-25 13:39:48",
+						"post_date_gmt": "2024-03-25 05:39:48",
+						"post_content": "",
+						"post_title": "candt",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "candt",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-25 13:39:48",
+						"post_modified_gmt": "2024-03-25 05:39:48",
+						"post_content_filtered": "",
+						"post_parent": "684",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/candt.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3924"
+					}
+				],
+				"store_phone_number": "6837 2501",
+				"store_description": "The store does not have a description.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "https://shopee.sg/cntsports",
+				"categories": [
+					{
+						"name": "Shopping and Lifestyle",
+						"id": 59
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3283,
+		"floor": "1",
+		"coordinate": "582,237 539,212 512,238 512,253 552,276 553,263",
+		"unit_number": "#01-43",
+		"stores": [
+			{
+				"id": "704",
+				"store_name": "Kwong Shin Pte Ltd",
+				"store_unit": "#01-43",
+				"store_opening_hours": ["Mon - Sat 10.30am - 7pm", "Sun and PH Closed"],
+				"store_images": [
+					{
+						"ID": "3814",
+						"post_author": "3",
+						"post_date": "2024-03-18 16:20:34",
+						"post_date_gmt": "2024-03-18 08:20:34",
+						"post_content": "",
+						"post_title": "kwong",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "kwong",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 16:20:34",
+						"post_modified_gmt": "2024-03-18 08:20:34",
+						"post_content_filtered": "",
+						"post_parent": "704",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2017/09/kwong.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3814"
+					}
+				],
+				"store_phone_number": "6339 0478",
+				"store_description": "For your eyecare needs.",
+				"store_facebook_url": "https://www.facebook.com/kwongshin",
+				"store_instagram_url": "",
+				"store_website": "https://kwongshinoptical.com/",
+				"categories": [
+					{
+						"name": "Eyewear",
+						"id": 48
+					}
+				],
+				"story": "kwong-shin-pte-ltd"
+			}
+		]
+	},
+	{
+		"id": 3282,
+		"floor": "1",
+		"coordinate": "540,213 567,189 607,212 580,237",
+		"unit_number": "#01-37",
+		"stores": [
+			{
+				"id": "703",
+				"store_name": "Kwang Guan Watch & Pen Pte Ltd",
+				"store_unit": "#01-37",
+				"store_opening_hours": ["Mon - Sun and PH, 11am - 7pm"],
+				"store_images": [
+					{
+						"ID": "3802",
+						"post_author": "3",
+						"post_date": "2024-03-18 15:23:09",
+						"post_date_gmt": "2024-03-18 07:23:09",
+						"post_content": "",
+						"post_title": "Kwang",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "kwang",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 15:23:09",
+						"post_modified_gmt": "2024-03-18 07:23:09",
+						"post_content_filtered": "",
+						"post_parent": "703",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2017/12/Kwang.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3802"
+					}
+				],
+				"store_phone_number": "6339 0478",
+				"store_description": "Kwang Guan Watch Pte Ltd is among Singapore’s longest-running retail watch shops, established since 1961. We are an authorised dealer of multiple world-renowned brands for watches, clocks and pens. Others: battery and strap replacement, repair services.",
+				"store_facebook_url": "https://www.facebook.com/kwangguanwatch/",
+				"store_instagram_url": "",
+				"store_website": "https://www.carousell.sg/u/kwangguanwatch/",
+				"categories": [
+					{
+						"name": "Writing and Timepieces",
+						"id": 45
+					}
+				],
+				"story": "kwang-guan-watch-pen-pte-ltd"
+			}
+		]
+	},
+	{
+		"id": 3281,
+		"floor": "1",
+		"coordinate": "151,293 181,312 193,317 206,317 219,314 230,308 292,253 291,239 234,204 152,280",
+		"unit_number": "#01-01",
+		"stores": [
+			{
+				"id": "702",
+				"store_name": "Jack's Place",
+				"store_unit": "#01-01",
+				"store_opening_hours": ["Mon - Sun, 11am - 10.30pm"],
+				"store_images": [
+					{
+						"ID": "3790",
+						"post_author": "3",
+						"post_date": "2024-03-18 13:16:33",
+						"post_date_gmt": "2024-03-18 05:16:33",
+						"post_content": "",
+						"post_title": "outlet-bras-basah1",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "outlet-bras-basah1",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 13:16:33",
+						"post_modified_gmt": "2024-03-18 05:16:33",
+						"post_content_filtered": "",
+						"post_parent": "702",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2018/01/outlet-bras-basah1.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3790"
+					}
+				],
+				"store_phone_number": "6338 6634",
+				"store_description": "Today, Jack’s Place is the trusted favourite for family and friends to enjoy great value sizzling steaks, specialty meals, and sumptuous cakes. Jack’s Place is committed to serving quality food and creating memorable dining experiences in a cheerful and cozy environment for our guests.",
+				"store_facebook_url": "https://www.facebook.com/jacks.place.restaurant/",
+				"store_instagram_url": "https://www.instagram.com/jacksplacesg",
+				"store_website": "https://www.jacksplace.com.sg/",
+				"categories": [
+					{
+						"name": "Food and Dining",
+						"id": 46
+					}
+				],
+				"story": "jacks-place"
+			}
+		]
+	},
+	{
+		"id": 3280,
+		"floor": "1",
+		"coordinate": "517,87 513,74 519,68 544,82 546,98 541,104",
+		"unit_number": "#01-K2",
+		"stores": [
+			{
+				"id": "701",
+				"store_name": "Jack Exam Paper",
+				"store_unit": "#01-K2",
+				"store_opening_hours": ["Mon - Sun 10am - 6pm"],
+				"store_images": [
+					{
+						"ID": "3831",
+						"post_author": "3",
+						"post_date": "2024-03-20 14:53:24",
+						"post_date_gmt": "2024-03-20 06:53:24",
+						"post_content": "",
+						"post_title": "Jack",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "jack",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-20 14:53:24",
+						"post_modified_gmt": "2024-03-20 06:53:24",
+						"post_content_filtered": "",
+						"post_parent": "701",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/Jack.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3831"
+					}
+				],
+				"store_phone_number": "9651 9666",
+				"store_description": "The store does not have a description.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "https://www.exampapersg.com/2015/11/2015-primary-6.html",
+				"categories": [
+					{
+						"name": "Book Shops",
+						"id": 49
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3279,
+		"floor": "1",
+		"coordinate": "316,495 317,484 341,458 401,494 367,523 337,505 343,499 335,508",
+		"unit_number": "#01-69",
+		"stores": [
+			{
+				"id": "700",
+				"store_name": "Wow Bistro",
+				"store_unit": "#01-69",
+				"store_opening_hours": ["Tues - Sun 11am", "Mon Closed"],
+				"store_images": [
+					{
+						"ID": "3827",
+						"post_author": "3",
+						"post_date": "2024-03-20 14:28:45",
+						"post_date_gmt": "2024-03-20 06:28:45",
+						"post_content": "",
+						"post_title": "wow",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "wow",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-20 14:28:45",
+						"post_modified_gmt": "2024-03-20 06:28:45",
+						"post_content_filtered": "",
+						"post_parent": "700",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/wow.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3827"
+					}
+				],
+				"store_phone_number": "9654 7947",
+				"store_description": "Creative Fusion Dishes",
+				"store_facebook_url": "https://facebook.com/wowbistrosg/",
+				"store_instagram_url": "",
+				"store_website": "https://linktr.ee/wowbistrosg",
+				"categories": [
+					{
+						"name": "Food and Dining",
+						"id": 46
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3278,
+		"floor": "1",
+		"coordinate": "597,303 625,320 655,293 656,281 625,261 596,290",
+		"unit_number": "#01-49",
+		"stores": [
+			{
+				"id": "699",
+				"store_name": "Heng Wah Watch & Pen",
+				"store_unit": "#01-49",
+				"store_opening_hours": ["Mon - Sat 10.30am - 7pm", "Sun and PH 11am - 6pm"],
+				"store_images": [
+					{
+						"ID": "3817",
+						"post_author": "3",
+						"post_date": "2024-03-18 16:41:31",
+						"post_date_gmt": "2024-03-18 08:41:31",
+						"post_content": "",
+						"post_title": "hengwah",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "hengwah",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 16:41:31",
+						"post_modified_gmt": "2024-03-18 08:41:31",
+						"post_content_filtered": "",
+						"post_parent": "699",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2017/11/hengwah.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3817"
+					}
+				],
+				"store_phone_number": "6337 2621",
+				"store_description": "Established in 1978, they sell Watches, Clocks, Calculators and offering watch repairing services",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Writing and Timepieces",
+						"id": 45
+					}
+				],
+				"story": "heng-wah-watch-pen"
+			}
+		]
+	},
+	{
+		"id": 3277,
+		"floor": "1",
+		"coordinate": "652,238 625,263 657,283 655,295 681,270 682,255 ",
+		"unit_number": "#01-31",
+		"stores": [
+			{
+				"id": "698",
+				"store_name": "Hair Time",
+				"store_unit": "#01-31",
+				"store_opening_hours": ["Mon, Weds, Thurs, Fri 11am - 8pm", "Sat and Sun 11am - 6pm", "Tues Closed"],
+				"store_images": [
+					{
+						"ID": "3800",
+						"post_author": "3",
+						"post_date": "2024-03-18 15:15:25",
+						"post_date_gmt": "2024-03-18 07:15:25",
+						"post_content": "",
+						"post_title": "hair",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "hair",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 15:15:25",
+						"post_modified_gmt": "2024-03-18 07:15:25",
+						"post_content_filtered": "",
+						"post_parent": "698",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/hair.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3800"
+					}
+				],
+				"store_phone_number": "6251 3520",
+				"store_description": "Hair Salon",
+				"store_facebook_url": "https://www.facebook.com/HairTimeSG/",
+				"store_instagram_url": "https://www.instagram.com/hairtimesg/",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Health and Beauty",
+						"id": 65
+					}
+				],
+				"story": false
+			},
+			{
+				"id": "3737",
+				"store_name": "Hungry Traveller",
+				"store_unit": "#01-31A",
+				"store_opening_hours": ["Daily 10am-6pm"],
+				"store_images": [
+					{
+						"ID": "3738",
+						"post_author": "3",
+						"post_date": "2024-03-13 15:58:26",
+						"post_date_gmt": "2024-03-13 07:58:26",
+						"post_content": "",
+						"post_title": "411647640_334936929301733_855132467627569472_n",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "411647640_334936929301733_855132467627569472_n",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-13 15:58:26",
+						"post_modified_gmt": "2024-03-13 07:58:26",
+						"post_content_filtered": "",
+						"post_parent": "3737",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/03/411647640_334936929301733_855132467627569472_n.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3738"
+					}
+				],
+				"store_phone_number": "8600 0553",
+				"store_description": "At The Hungry Traveller, we have a passion for both good food and adventure, and we believe that the two go hand in hand. That’s why we’ve curated a collection of rare and hard-to-find cookbooks and travel guides that will inspire your inner chef and wanderlust.",
+				"store_facebook_url": "https://www.facebook.com/HungryTraveller.org",
+				"store_instagram_url": "https://www.instagram.com/gastronomicapictorial?fbclid=IwAR0lZvOSsKP_jHDlY37DoN3H66ogxqzyQiBiJMBtqBcvHx4YKWsDPrt-S_8",
+				"store_website": "https://hungrytraveller.com.au/",
+				"categories": [
+					{
+						"name": "Book Shops",
+						"id": 49
+					}
+				],
+				"story": "hungry-traveller"
+			}
+		]
+	},
+	{
+		"id": 3276,
+		"floor": "1",
+		"coordinate": "514,200 542,175 566,188 540,215",
+		"unit_number": "#01-39",
+		"stores": [
+			{
+				"id": "697",
+				"store_name": "Guan Yun Zhai Chinese Art Material / G-Frame Maker",
+				"store_unit": "#01-39",
+				"store_opening_hours": ["N/A"],
+				"store_images": [
+					{
+						"ID": "3804",
+						"post_author": "3",
+						"post_date": "2024-03-18 15:42:23",
+						"post_date_gmt": "2024-03-18 07:42:23",
+						"post_content": "",
+						"post_title": "guan",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "guan",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 15:42:23",
+						"post_modified_gmt": "2024-03-18 07:42:23",
+						"post_content_filtered": "",
+						"post_parent": "697",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/guan.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3804"
+					}
+				],
+				"store_phone_number": "9825 3918",
+				"store_description": "售卖：文房四宝，手工装裱，清洗修复，中式镜框，代治金石印章竹刻木匾",
+				"store_facebook_url": "https://www.facebook.com/people/Guan-Yun-Zhai-Chinese-Art-Restoration-Frames/100069235750582/",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Art Supplies",
+						"id": 50
+					}
+				],
+				"story": "guan-yun-zhai-chinese-art-material-g-frame-maker"
+			}
+		]
+	},
+	{
+		"id": 3273,
+		"floor": "1",
+		"coordinate": "404,52 430,26 478,53 451,79",
+		"unit_number": "#01-07",
+		"stores": [
+			{
+				"id": "694",
+				"store_name": "Evernew Book Store",
+				"store_unit": "#01-07",
+				"store_opening_hours": ["Mon - Sat 11am - 7.30am", "Sun and PH 11am - 6.30pm"],
+				"store_images": [
+					{
+						"ID": "2291",
+						"post_author": "1",
+						"post_date": "2023-12-03 20:53:22",
+						"post_date_gmt": "2023-12-03 20:53:22",
+						"post_content": "",
+						"post_title": "4499d6_b8237d15f1124a208707ea7b0c6a4041~mv2",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "open",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "4499d6_b8237d15f1124a208707ea7b0c6a4041mv2",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-02-22 00:17:40",
+						"post_modified_gmt": "2024-02-21 16:17:40",
+						"post_content_filtered": "",
+						"post_parent": "694",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2023/12/4499d6_b8237d15f1124a208707ea7b0c6a4041mv2.png",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/png",
+						"comment_count": "0",
+						"pod_item_id": "2291"
+					}
+				],
+				"store_phone_number": "6338 1753",
+				"store_description": "Giving extra lives to books.\r\nFiction | Non-fiction | Bestsellers | Storybooks | Educational & Reference Books | Self-help | Art Books",
+				"store_facebook_url": "https://www.facebook.com/evernewbook/",
+				"store_instagram_url": "",
+				"store_website": "https://www.evernewbookstore.com/contact-us",
+				"categories": [
+					{
+						"name": "Book Shops",
+						"id": 49
+					}
+				],
+				"story": "evernew-book-store"
+			}
+		]
+	},
+	{
+		"id": 3269,
+		"floor": "1",
+		"coordinate": "364,450 415,480 426,469 458,441 424,422 418,429 391,412 366,436",
+		"unit_number": "#01-71",
+		"stores": [
+			{
+				"id": "690",
+				"store_name": "Conda Print & Bind Pte Ltd",
+				"store_unit": "#01-71",
+				"store_opening_hours": ["Mon - Fri 10.30am - 6.30pm", "Sat 10.30am - 5pm", "Sun and PH Closed"],
+				"store_images": [
+					{
+						"ID": "3828",
+						"post_author": "3",
+						"post_date": "2024-03-20 14:33:33",
+						"post_date_gmt": "2024-03-20 06:33:33",
+						"post_content": "",
+						"post_title": "conda",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "conda",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-20 14:33:33",
+						"post_modified_gmt": "2024-03-20 06:33:33",
+						"post_content_filtered": "",
+						"post_parent": "690",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/conda.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3828"
+					}
+				],
+				"store_phone_number": "63367244",
+				"store_description": "The store does not have a description.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Print",
+						"id": 42
+					}
+				],
+				"story": "conda-print-bind-pte-ltd"
+			},
+			{
+				"id": "710",
+				"store_name": "Nail Boulevard",
+				"store_unit": "#01-71A",
+				"store_opening_hours": ["Mon - Sat 11am -8pm"],
+				"store_images": [
+					{
+						"ID": "3829",
+						"post_author": "3",
+						"post_date": "2024-03-20 14:40:10",
+						"post_date_gmt": "2024-03-20 06:40:10",
+						"post_content": "",
+						"post_title": "nail",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "nail",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-20 14:40:10",
+						"post_modified_gmt": "2024-03-20 06:40:10",
+						"post_content_filtered": "",
+						"post_parent": "710",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/nail.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3829"
+					}
+				],
+				"store_phone_number": "92453044",
+				"store_description": "The happiest girls always have the prettiest nails! Trust us when we say, we get it.",
+				"store_facebook_url": "https://www.facebook.com/nailboulevard88/",
+				"store_instagram_url": "https://www.instagram.com/nail_boulevardsg/",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Health and Beauty",
+						"id": 65
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3271,
+		"floor": "1",
+		"coordinate": "",
+		"unit_number": "#01-K3",
+		"stores": [
+			{
+				"id": "692",
+				"store_name": "DBS ATM",
+				"store_unit": "#01-K3",
+				"store_opening_hours": ["N/A"],
+				"store_images": [
+					{
+						"ID": "3923",
+						"post_author": "3",
+						"post_date": "2024-03-25 13:33:36",
+						"post_date_gmt": "2024-03-25 05:33:36",
+						"post_content": "",
+						"post_title": "dbs",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "dbs",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-25 13:33:36",
+						"post_modified_gmt": "2024-03-25 05:33:36",
+						"post_content_filtered": "",
+						"post_parent": "692",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/dbs.png",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/png",
+						"comment_count": "0",
+						"pod_item_id": "3923"
+					}
+				],
+				"store_phone_number": "N/A",
+				"store_description": "The store does not have a description.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Service",
+						"id": 64
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3272,
+		"floor": "1",
+		"coordinate": "603,251 626,263 597,289 595,303 573,290 574,277",
+		"unit_number": "#01-47",
+		"stores": [
+			{
+				"id": "693",
+				"store_name": "Designer Eyewear & Contact Lens Centre",
+				"store_unit": "#01-47",
+				"store_opening_hours": ["Mon - Sat 11am - 7pm", "Sun 11am - 5pm", "PH Closed"],
+				"store_images": [
+					{
+						"ID": "3816",
+						"post_author": "3",
+						"post_date": "2024-03-18 16:39:38",
+						"post_date_gmt": "2024-03-18 08:39:38",
+						"post_content": "",
+						"post_title": "designer",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "designer",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 16:39:38",
+						"post_modified_gmt": "2024-03-18 08:39:38",
+						"post_content_filtered": "",
+						"post_parent": "693",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2017/10/designer.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3816"
+					}
+				],
+				"store_phone_number": "6339 4662",
+				"store_description": "From spectacles to contact lenses and sunglasses, we provide quality product and service excellence",
+				"store_facebook_url": "https://www.facebook.com/DesignerEyewearLLP",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Eyewear",
+						"id": 48
+					}
+				],
+				"story": "designer-eyewear-contact-lens-centre"
+			}
+		]
+	},
+	{
+		"id": 3274,
+		"floor": "1",
+		"coordinate": "578,193 579,176 621,136 643,150 601,189 599,204",
+		"unit_number": "#01-23",
+		"stores": [
+			{
+				"id": "695",
+				"store_name": "Fook Hing Trading Co",
+				"store_unit": "#01-23",
+				"store_opening_hours": ["Tues - Sun 10am - 7.30pm"],
+				"store_images": [
+					{
+						"ID": "3796",
+						"post_author": "3",
+						"post_date": "2024-03-18 14:12:13",
+						"post_date_gmt": "2024-03-18 06:12:13",
+						"post_content": "",
+						"post_title": "fook",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "fook",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 14:12:13",
+						"post_modified_gmt": "2024-03-18 06:12:13",
+						"post_content_filtered": "",
+						"post_parent": "695",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2017/09/fook.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3796"
+					}
+				],
+				"store_phone_number": "6337 3045",
+				"store_description": "At Fook Hing, we understand that collectors of fine watches and writing implements appreciate adequate knowledge about a product before making an investment in a writing instrument for daily use or collection.",
+				"store_facebook_url": "https://www.facebook.com/fookhing",
+				"store_instagram_url": "",
+				"store_website": "https://fookhing.com.sg/",
+				"categories": [
+					{
+						"name": "Writing and Timepieces",
+						"id": 45
+					}
+				],
+				"story": "fook-hing-trading-co"
+			}
+		]
+	},
+	{
+		"id": 3275,
+		"floor": "1",
+		"coordinate": "291,517 351,552 352,538 368,523 336,505 328,510 301,493 291,503",
+		"unit_number": "#01-67",
+		"stores": [
+			{
+				"id": "696",
+				"store_name": "Gems Shine",
+				"store_unit": "#01-67",
+				"store_opening_hours": ["Mon - Sun and PH 12pm - 7pm.", "By Appointment Only"],
+				"store_images": [
+					{
+						"ID": "3798",
+						"post_author": "3",
+						"post_date": "2024-03-18 14:37:07",
+						"post_date_gmt": "2024-03-18 06:37:07",
+						"post_content": "",
+						"post_title": "gems shine",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "gems-shine-2",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 14:37:07",
+						"post_modified_gmt": "2024-03-18 06:37:07",
+						"post_content_filtered": "",
+						"post_parent": "696",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2017/08/gems-shine.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3798"
+					},
+					{
+						"ID": "3853",
+						"post_author": "3",
+						"post_date": "2024-03-21 14:24:34",
+						"post_date_gmt": "2024-03-21 06:24:34",
+						"post_content": "",
+						"post_title": "amethyism",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "amethyism",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-21 14:24:34",
+						"post_modified_gmt": "2024-03-21 06:24:34",
+						"post_content_filtered": "",
+						"post_parent": "696",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2017/08/amethyism.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3853"
+					}
+				],
+				"store_phone_number": "6297 5229",
+				"store_description": "We sell a wide range of natural crystal including semiprecious jewellery that have a positive energy to enhance and enrich one’s personal luck at home or in the office.",
+				"store_facebook_url": "https://www.facebook.com/gemshine.sg",
+				"store_instagram_url": "https://www.instagram.com/gemshine.sg",
+				"store_website": "https://gemsshine.com/",
+				"categories": [
+					{
+						"name": "Shopping and Lifestyle",
+						"id": 59
+					}
+				],
+				"story": "gems-shine"
+			}
+		]
+	},
+	{
+		"id": 3268,
+		"floor": "1",
+		"coordinate": "307,367 343,388 344,402 371,380 371,363 334,343",
+		"unit_number": "#01-57",
+		"stores": [
+			{
+				"id": "689",
+				"store_name": "Colour Shop Pte Ltd",
+				"store_unit": "#01-57",
+				"store_opening_hours": ["Monday to Friday 10:30am – 7pm", "Saturday 10:30am – 5pm", "Closed on Sunday & Public Holiday"],
+				"store_images": [
+					{
+						"ID": "3823",
+						"post_author": "3",
+						"post_date": "2024-03-19 16:03:21",
+						"post_date_gmt": "2024-03-19 08:03:21",
+						"post_content": "",
+						"post_title": "colourshop",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "colourshop",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-19 16:03:21",
+						"post_modified_gmt": "2024-03-19 08:03:21",
+						"post_content_filtered": "",
+						"post_parent": "689",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/colourshop.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3823"
+					}
+				],
+				"store_phone_number": "8318 8815",
+				"store_description": "Colourshop Manages All of Your Printing Needs…\r\nWalk-in “while-u-wait” COPY*PRINT*SCAN Service.\r\nFull Quality Solutions to Printing Services. On-Time Completion!",
+				"store_facebook_url": "https://www.facebook.com/profile.php?id=61552087460862&paipv=0&eav=AfbA5t4iVp4CdURRf8IWAZCDQw7vF7NQETU2AvODgAtVva6WbjBlaUStHWiyW6X8wQM",
+				"store_instagram_url": "https://www.instagram.com/colourshop_printing/",
+				"store_website": "http://www.colourshop.com.sg/",
+				"categories": [
+					{
+						"name": "Print",
+						"id": 42
+					}
+				],
+				"story": false
+			},
+			{
+				"id": "707",
+				"store_name": "Ling Image Pte Ltd",
+				"store_unit": "#01-57A",
+				"store_opening_hours": ["Mon - Fri 10.30am - 7pm", "Sat 10.30am - 5pm", "Sun and PH Closed"],
+				"store_images": [
+					{
+						"ID": "3928",
+						"post_author": "3",
+						"post_date": "2024-03-25 13:50:07",
+						"post_date_gmt": "2024-03-25 05:50:07",
+						"post_content": "",
+						"post_title": "ling image",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "ling-image-2",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-25 13:50:07",
+						"post_modified_gmt": "2024-03-25 05:50:07",
+						"post_content_filtered": "",
+						"post_parent": "707",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/ling-image-1.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3928"
+					}
+				],
+				"store_phone_number": "63381243",
+				"store_description": "We are a digital printing company with 20 years of experience, providing a Wide Range of Printing Service.",
+				"store_facebook_url": "https://www.facebook.com/lingimageprinting/",
+				"store_instagram_url": "",
+				"store_website": "https://lingimage.blogspot.com/",
+				"categories": [
+					{
+						"name": "Print",
+						"id": 42
+					}
+				],
+				"story": "ling-image-pte-ltd"
+			}
+		]
+	},
+	{
+		"id": 3267,
+		"floor": "1",
+		"coordinate": "352,553 385,572 426,534 437,544 478,505 494,516 565,452 565,439 550,430 554,427 554,413 515,390 352,539",
+		"unit_number": "#01-79",
+		"stores": [
+			{
+				"id": "688",
+				"store_name": "Shifu Food Court",
+				"store_unit": "#01-79",
+				"store_opening_hours": ["24 Hours"],
+				"store_images": [
+					{
+						"ID": "4195",
+						"post_author": "3",
+						"post_date": "2024-10-17 15:27:02",
+						"post_date_gmt": "2024-10-17 07:27:02",
+						"post_content": "",
+						"post_title": "shifu",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "shifu",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-10-17 15:27:02",
+						"post_modified_gmt": "2024-10-17 07:27:02",
+						"post_content_filtered": "",
+						"post_parent": "688",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2017/11/shifu.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "4195"
+					}
+				],
+				"store_phone_number": "",
+				"store_description": "Shifu Food Court is inspired by the vibrant heritage food streets of Singapore. With a mission to transport diners to the bustling food streets from a bygone era, Shifu offers a gastronomic journey that celebrates the rich diversity of Singapore’s culinary landscape. Combining authentic flavours, a wide variety of food stalls, and a lively atmosphere, Shifu aims to become a cultural and culinary hub in the community. Welcoming both locals and visitors, Shifu invites everyone to experience the true essence of Singaporean street food.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Food and Dining",
+						"id": 46
+					}
+				],
+				"story": "coffee-express-2000"
+			}
+		]
+	},
+	{
+		"id": 3266,
+		"floor": "1",
+		"coordinate": "581,239 608,212 630,225 604,250",
+		"unit_number": "#01-35",
+		"stores": [
+			{
+				"id": "687",
+				"store_name": "Choy Hing Store Watch Dealers",
+				"store_unit": "#01-35",
+				"store_opening_hours": ["Mon - Sat 11am - 6pm", "Closed on Sun and PH"],
+				"store_images": [
+					{
+						"ID": "3801",
+						"post_author": "3",
+						"post_date": "2024-03-18 15:19:48",
+						"post_date_gmt": "2024-03-18 07:19:48",
+						"post_content": "",
+						"post_title": "Choy Hing",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "choy-hing",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 15:19:48",
+						"post_modified_gmt": "2024-03-18 07:19:48",
+						"post_content_filtered": "",
+						"post_parent": "687",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/Choy-Hing.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3801"
+					}
+				],
+				"store_phone_number": "6337 1428",
+				"store_description": "Your go-to place when you are in search of repair services.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Writing and Timepieces",
+						"id": 45
+					}
+				],
+				"story": "choy-hing-store-watch-dealers"
+			}
+		]
+	},
+	{
+		"id": 3265,
+		"floor": "1",
+		"coordinate": "557,180 558,163 600,123 622,137 579,176 578,191",
+		"unit_number": "#01-21",
+		"stores": [
+			{
+				"id": "686",
+				"store_name": "Cheers",
+				"store_unit": "#01-21",
+				"store_opening_hours": ["24 Hours"],
+				"store_images": [
+					{
+						"ID": "3922",
+						"post_author": "3",
+						"post_date": "2024-03-25 13:33:04",
+						"post_date_gmt": "2024-03-25 05:33:04",
+						"post_content": "",
+						"post_title": "cheers",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "cheers-2",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-25 13:33:04",
+						"post_modified_gmt": "2024-03-25 05:33:04",
+						"post_content_filtered": "",
+						"post_parent": "686",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2024/01/cheers.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3922"
+					}
+				],
+				"store_phone_number": "6337 5751",
+				"store_description": "In all corners of Singapore, we’re bringing you more.\r\nMore choices, more convenience, more delight.\r\nWe’ll be here to make every moment brighter for you.\r\nCome and discover your Cheers.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "https://cheers.com.sg/store/cheers-bras-basah-complex/",
+				"categories": [
+					{
+						"name": "Food and Dining",
+						"id": 46
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3258,
+		"floor": "1",
+		"coordinate": "209,472 248,493 259,482 262,467 222,445 210,456",
+		"unit_number": "#01-65",
+		"stores": [
+			{
+				"id": "411",
+				"store_name": "Artpreciation Gallery",
+				"store_unit": "#01-65",
+				"store_opening_hours": ["Mon - Sat 12pm - 5pm", "Sun Closed"],
+				"store_images": [],
+				"store_phone_number": "96704405",
+				"store_description": "The store does not have a description.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Arts and Culture",
+						"id": 23
+					}
+				],
+				"story": false
+			}
+		]
+	},
+	{
+		"id": 3262,
+		"floor": "1",
+		"coordinate": "439,105 441,90 477,54 516,76 503,88 526,101 526,116 507,133 499,124 457,99 448,108",
+		"unit_number": "#01-09",
+		"stores": [
+			{
+				"id": "683",
+				"store_name": "Bras Basah Color Service Centre",
+				"store_unit": "#01-09",
+				"store_opening_hours": ["Mon - Fri 10.30am - 6.30pm", "Sat 10.30am - 4.30pm", "Sun and PH Closed"],
+				"store_images": [
+					{
+						"ID": "3929",
+						"post_author": "3",
+						"post_date": "2024-03-25 13:53:00",
+						"post_date_gmt": "2024-03-25 05:53:00",
+						"post_content": "",
+						"post_title": "bbcimage",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "bbcimage",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-25 13:53:00",
+						"post_modified_gmt": "2024-03-25 05:53:00",
+						"post_content_filtered": "",
+						"post_parent": "683",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2017/11/bbcimage.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3929"
+					}
+				],
+				"store_phone_number": "6337 2726",
+				"store_description": "We provide full quality solutions to printing and designing services.\r\n\r\nAs a result, we’ve evolved into a full-service digital lab, offering everything from photo printing to film processing.\r\n\r\nEvery image that travels through our lab, whether film or digital, wallet sized or large format prints, is quality-inspected by our personnel.\r\n\r\nYour printouts will be of excellent quality.",
+				"store_facebook_url": "",
+				"store_instagram_url": "",
+				"store_website": "https://brasbasahcolor.com/",
+				"categories": [
+					{
+						"name": "Print",
+						"id": 42
+					}
+				],
+				"story": "bras-basah-color-service-centre"
+			}
+		]
+	},
+	{
+		"id": 3260,
+		"floor": "1",
+		"coordinate": "224,444 260,467 261,479 288,456 288,440 251,419",
+		"unit_number": "#01-63",
+		"stores": [
+			{
+				"id": "681",
+				"store_name": "Awareness Place",
+				"store_unit": "#01-63",
+				"store_opening_hours": ["Mon - Sat 11am - 7pm", "Sun and PH 10am - 6pm"],
+				"store_images": [
+					{
+						"ID": "2195",
+						"post_author": "1",
+						"post_date": "2023-12-03 20:41:09",
+						"post_date_gmt": "2023-12-03 20:41:09",
+						"post_content": "",
+						"post_title": "4499d6_9a15d7d218fb4c2098dd4dde2bdc2274~mv2",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "open",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "4499d6_9a15d7d218fb4c2098dd4dde2bdc2274mv2",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-02-22 00:17:36",
+						"post_modified_gmt": "2024-02-21 16:17:36",
+						"post_content_filtered": "",
+						"post_parent": "681",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2023/12/4499d6_9a15d7d218fb4c2098dd4dde2bdc2274mv2.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "2195"
+					}
+				],
+				"store_phone_number": "6849 5350",
+				"store_description": "Awareness Place is a lifestyle concept store in Singapore that promotes holistic care of your body, mind & spirit through books, music and more.",
+				"store_facebook_url": "https://www.facebook.com/awarenessplace/",
+				"store_instagram_url": "",
+				"store_website": "",
+				"categories": [
+					{
+						"name": "Arts and Culture",
+						"id": 23
+					}
+				],
+				"story": "awareness-place"
+			}
+		]
+	},
+	{
+		"id": 3259,
+		"floor": "1",
+		"coordinate": "516,200 539,212 512,238 512,253 488,240 490,224",
+		"unit_number": "#01-41",
+		"stores": [
+			{
+				"id": "680",
+				"store_name": "Art Sign International Pte Ltd",
+				"store_unit": "#01-41",
+				"store_opening_hours": ["Mon - Fri 10am - 7pm", "Sat 11am - 6pm", "Closed on Sun and PH"],
+				"store_images": [
+					{
+						"ID": "3813",
+						"post_author": "3",
+						"post_date": "2024-03-18 16:18:01",
+						"post_date_gmt": "2024-03-18 08:18:01",
+						"post_content": "",
+						"post_title": "195683314_2923981367879907_7056706059616724766_n",
+						"post_excerpt": "",
+						"post_status": "inherit",
+						"comment_status": "",
+						"ping_status": "closed",
+						"post_password": "",
+						"post_name": "195683314_2923981367879907_7056706059616724766_n",
+						"to_ping": "",
+						"pinged": "",
+						"post_modified": "2024-03-18 16:18:01",
+						"post_modified_gmt": "2024-03-18 08:18:01",
+						"post_content_filtered": "",
+						"post_parent": "680",
+						"guid": "https://www.brasbasahcomplex.com/wp-content/uploads/2017/12/195683314_2923981367879907_7056706059616724766_n.jpg",
+						"menu_order": "0",
+						"post_type": "attachment",
+						"post_mime_type": "image/jpeg",
+						"comment_count": "0",
+						"pod_item_id": "3813"
+					}
+				],
+				"store_phone_number": "6333 0444",
+				"store_description": "Banner, Poster, Sign, Display Stand, POP Product, Acrylic Product, Flyer/Label, T-Shirt, Picture Frame, Rubber Stamp, Name Tag, Name Card, Design",
+				"store_facebook_url": "https://www.facebook.com/artsigninternational",
+				"store_instagram_url": "",
+				"store_website": "https://artsign.com/",
+				"categories": [
+					{
+						"name": "Print",
+						"id": 42
+					}
+				],
+				"story": "art-sign-international-pte-ltd"
+			}
+		]
+	}
+]

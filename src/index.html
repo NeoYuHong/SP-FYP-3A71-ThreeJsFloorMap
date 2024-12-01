@@ -1,29 +1,23 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
+	<head>
+		<title>Floormap Threejs</title>
+	</head>
+	<style>
+		#popup {
+			position: absolute;
+			display: none;
+			background-color: white;
+			border: 1px solid black;
+			border-radius: 15px;
+			padding: 15px;
+			font-size: 16px;
+			pointer-events: none;
+		}
+	</style>
 
-<head>
-    <title>Floormap Threejs</title>
-</head>
-<style>
-    #popup {
-        position: absolute;
-        display: none;
-        background-color: white;
-        border: 1px solid black;
-        border-radius: 15px;
-        padding: 15px;
-        font-size: 16px;
-        pointer-events: none;
-    }
-</style>
-
-<body style="height: 100%;width: 100%;overflow: hidden;margin: 0px;">
-    <div id="popup">
-
-    </div>
-    <div id="floormap">
-    </div>
-
-</body>
-
+	<body style="height: 100%; width: 100%; overflow: hidden; margin: 0px">
+		<div id="popup"></div>
+		<div id="floormap"></div>
+	</body>
 </html>
