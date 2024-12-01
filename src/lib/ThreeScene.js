@@ -307,20 +307,20 @@ ThreeScene.prototype.addLight = function () {
     const light2 = new THREE.HemisphereLight(0xffffbb, 0x080820, 1);
     this.scene.add(light2);
 
-    // // Ambient light
-    // const ambientLight = new THREE.AmbientLight(0xffffff, 0.5);
-    // scene.add(ambientLight);
+    // Ambient light
+    const ambientLight = new THREE.AmbientLight(0xffffff, 0.5);
+    this.scene.add(ambientLight);
 
-    // // Directional light
-    // const directionalLight = new THREE.DirectionalLight(0xffffff, 1.0);
-    // directionalLight.position.set(5, 10, 5);
-    // scene.add(directionalLight);
+    // Directional light
+    const directionalLight = new THREE.DirectionalLight(0xffffff, 1.0);
+    directionalLight.position.set(5, 10, 5);
+    this.scene.add(directionalLight);
 
-    // // Spotlights for specific areas
-    // const spotlight = new THREE.SpotLight(0xffffff, 0.8);
-    // spotlight.position.set(10, 20, 10);
-    // spotlight.castShadow = true; // Enable shadows
-    // scene.add(spotlight);
+    // Spotlights for specific areas
+    const spotlight = new THREE.SpotLight(0xffffff, 0.8);
+    spotlight.position.set(10, 20, 10);
+    spotlight.castShadow = true; // Enable shadows
+    this.scene.add(spotlight);
 };
 
 ThreeScene.prototype.startRenderer = function () {

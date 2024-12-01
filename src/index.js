@@ -10,4 +10,4 @@ scene.addLight();
 
 // scene.addComposer();
 // scene.addReflector();
-scene.addHDR();
+// scene.addHDR();
