@@ -10,7 +10,7 @@ import { RenderPass } from 'three/examples/jsm/postprocessing/RenderPass.js';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import { MapControls } from 'three/addons/controls/MapControls.js';
 
-import skyHDR from '../assets/industrial_sunset_puresky_4k.hdr';
+import skyHDR from '../assets/kloofendal_48d_partly_cloudy_puresky_1k.hdr';
 import storeData from '../assets/data.json';
 import floor1 from '../assets/floor1.glb';
 
