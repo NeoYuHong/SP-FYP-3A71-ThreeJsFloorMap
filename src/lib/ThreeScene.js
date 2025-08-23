@@ -201,23 +201,37 @@ ThreeScene.prototype.onHover = function (item) {
             this.prevObj = null;
         }
 
-        let obj = this.intersects.find(obj => obj.object.userData.parent)?.object;
+        let obj = this.intersects.find(obj => obj.object.userData.isSolid)?.object;
 
-        if (!obj) {
+        if (!obj || !obj.userData?.isUnit) {
             if (this.intersects[0].object.userData.id) this.data.hovering = this.intersects[0].object.userData.id;
             else this.data.hovering = this.intersects[0].object.name;
             this.data.storeName = 'nil';
+            this.data.storeDesc = 'nil';
             popup.style.display = 'none';
             return;
         }
 
         this.data.hovering = obj.userData.name;
 
-        let test = storeData.find(({ unit_number }) => unit_number == obj.userData.name);
-        this.data.storeName = test?.stores[0].store_name || 'nil';
-        this.data.storeDesc = test?.stores[0].store_description || 'nil';
-        // Set popup content
-        popup.innerText = `Unit: ${obj.userData.name}\nStore name: ${test?.stores[0].store_name || 'nil'}\nStore desc: ${test?.stores[0].store_description || 'nil'}`;
+        let storeDetail = storeData.find(({ unit_number }) => unit_number == obj.userData.name);
+
+        if (storeDetail.stores.length > 0) {
+            this.data.storeName = storeDetail?.stores[0].store_name || 'nil';
+            this.data.storeDesc = storeDetail?.stores[0].store_description || 'nil';
+            // Set popup content
+            // popup.innerText = `Unit: ${obj.userData.name}\nStore name: ${test?.stores[0].store_name || 'nil'}\nStore desc: ${test?.stores[0].store_description || 'nil'}`;
+            popup.querySelector('#unit').innerText = ` - ${obj.userData.name}`;
+            popup.querySelector('#store').innerText = `${storeDetail?.stores[0].store_name || 'nil'}`;
+            popup.querySelector('#desc').innerText = `${storeDetail?.stores[0].store_description || 'nil'}`;
+        } else {
+            this.data.storeName = 'nil';
+            this.data.storeDesc = 'nil';
+
+            popup.querySelector('#unit').innerText = ` - ${obj.userData.name}`;
+            popup.querySelector('#store').innerText = 'Data not found';
+            popup.querySelector('#desc').innerText = 'Please contact administrator for more detail!';
+        }
 
         // Set popup position and show it
         popup.style.display = 'block';
