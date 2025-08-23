@@ -129,15 +129,24 @@ ThreeScene.prototype.loadModel = function () {
     const loader = new GLTFLoader();
     loader.load(floor1, gltf => {
 
-        let model = gltf.scene.children[0];
+        // let model = gltf.scene.children[0];
+        // console.log(gltf.scene.children)
         // Set texture encoding and tone mapping to mimic Eevee
-        model.traverse(child => {
+        // model.traverse(child => {
+        //     if (child.isMesh) {
+        //         child.material.map.encoding = THREE.sRGBEncoding;
+        //         child.castShadow = true;
+        //         child.receiveShadow = true;
+        //     }
+        // });
+
+        gltf.scene.children.forEach(child => {
             if (child.isMesh) {
                 // child.material.map.encoding = THREE.sRGBEncoding;
                 child.castShadow = true;
                 child.receiveShadow = true;
             }
-        });
+        })
 
         this.floorScene = gltf.scene;
 
@@ -334,10 +343,18 @@ ThreeScene.prototype.addLight = function () {
 
 ThreeScene.prototype.startRenderer = function () {
     this.renderer = new THREE.WebGLRenderer();
-    this.renderer.toneMapping = THREE.ReinhardToneMapping;
-    // renderer.toneMapping = THREE.ACESFilmicToneMapping;
+
+    this.renderer.outputColorSpace = THREE.SRGBColorSpace;
+    this.renderer.outputEncoding = THREE.sRGBEncoding;
+    this.renderer.physicallyCorrectLights = true;
     this.renderer.shadowMap.enabled = true;
-    this.renderer.toneMappingExposure = 1.2;
+    this.renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+
+    this.renderer.toneMapping = THREE.ReinhardToneMapping;
+    // this.renderer.toneMapping = THREE.ACESFilmicToneMapping;
+    // this.renderer.toneMappingExposure = Math.pow(0.7, 5.0);
+    this.renderer.toneMappingExposure = 0.1;
+
     this.renderer.setSize(window.innerWidth, window.innerHeight);
     document.querySelector('#floormap').appendChild(this.renderer.domElement);
 };
