@@ -1,23 +1,64 @@
 <!doctype html>
 <html>
-	<head>
-		<title>Floormap Threejs</title>
-	</head>
-	<style>
-		#popup {
-			position: absolute;
-			display: none;
-			background-color: white;
-			border: 1px solid black;
-			border-radius: 15px;
-			padding: 15px;
-			font-size: 16px;
-			pointer-events: none;
-		}
-	</style>
 
-	<body style="height: 100%; width: 100%; overflow: hidden; margin: 0px">
-		<div id="popup"></div>
-		<div id="floormap"></div>
-	</body>
+<head>
+	<title>Floormap Threejs</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+		rel="stylesheet">
+</head>
+<style>
+	body {
+		font-family: 'Poppins', sans-serif;
+		height: 100%;
+		width: 100%;
+		overflow: hidden;
+		margin: 0px
+	}
+
+	#popup {
+		position: absolute;
+		display: none;
+		background-color: white;
+		border: 1px solid white;
+		border-radius: 8px;
+		padding: 12px 16px;
+		font-size: 16px;
+		pointer-events: none;
+		max-width: 400px;
+	}
+
+	#popup #store {
+		font-weight: 600;
+		font-size: 14px;
+	}
+
+	#popup #unit {
+		font-weight: 400;
+		font-size: 15px;
+	}
+
+	#popup #desc {
+		margin: 0;
+		font-weight: 400;
+		font-size: 14px;
+	}
+</style>
+
+<body>
+	<div id="popup">
+		<span>
+			<span id="store"></span><span id="unit"></span>
+		</span>
+		<p id="desc"></p>
+		<!-- <p style="margin: 0px 0px 5px 0px">Unit: <span id="unit"></span></p>
+		<p style="margin: 0px 0px 5px 0px">Desc: <span id="desc"></span></p>
+		<p style="margin: 0;">Store Name: <span id="store"></span></p> -->
+
+	</div>
+	<div id="floormap"></div>
+</body>
+
 </html>
