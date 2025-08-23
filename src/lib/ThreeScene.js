@@ -16,19 +16,21 @@ import floor1 from '../assets/floor1.glb';
 
 function ThreeScene() {
 
-    this.baseBorderSize = 25;
+    this.baseBorderSize = 32;
 
     this.data = {
         hovering: 'none',
         storeName: 'nil',
         storeDesc: 'nil',
         clientX: 0,
-        clientY: 0
+        clientY: 0,
+        texture: null
     };
 
     this.settings = {
         is2D: false,
         showGrid: false,
+        borderSize: this.baseBorderSize,
         hdr: true
     };
 
@@ -106,8 +108,18 @@ ThreeScene.prototype.addControls = function () {
 };
 
 ThreeScene.prototype.addBorder = function () {
-    this.minPan = new THREE.Vector3(-this.baseBorderSize, 0, -this.baseBorderSize);
-    this.maxPan = new THREE.Vector3(this.baseBorderSize, 0, this.baseBorderSize);
+
+    const offsetZ = -13;
+    const offsetX = 0;
+
+    this.grid = new THREE.GridHelper(this.baseBorderSize * 2, 50, 'green', 'green');
+    this.grid.position.set(offsetX, -1, offsetZ);
+    this.grid.visible = this.settings.showGrid;
+    this.scene.add(this.grid);
+
+
+    this.minPan = new THREE.Vector3(-this.baseBorderSize, 0, -this.baseBorderSize).add(this.grid.position);
+    this.maxPan = new THREE.Vector3(this.baseBorderSize, 0, this.baseBorderSize).add(this.grid.position);
     this._v = new THREE.Vector3();
     let controls = this.controls;
     let camera = this.camera;
@@ -118,11 +130,7 @@ ThreeScene.prototype.addBorder = function () {
         camera.position.sub(this._v);
     });
 
-    this.grid = new THREE.GridHelper(this.baseBorderSize * 2, 100, 'white', 'white');
-    this.grid.position.y = 0.01;
-    this.grid.visible = this.settings.showGrid;
 
-    this.scene.add(this.grid);
 };
 
 ThreeScene.prototype.loadModel = function () {
@@ -295,7 +303,7 @@ ThreeScene.prototype.addDebugGUI = function () {
             this.camera.position.sub(this._v);
 
             // properly scale grid to match size
-            this.grid.position.set(0, 0, 0);
+            // this.grid.position.set(0, 0, 0);
             this.grid.scale.set(value / this.baseBorderSize, 1, value / this.baseBorderSize);
         });
     guiSettings
