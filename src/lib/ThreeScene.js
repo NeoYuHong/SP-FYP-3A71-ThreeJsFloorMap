@@ -29,7 +29,7 @@ function ThreeScene() {
     this.settings = {
         is2D: false,
         showGrid: false,
-        borderSize: this.baseBorderSize
+        hdr: true
     };
 
     this.raycaster = new THREE.Raycaster();
@@ -51,6 +51,7 @@ ThreeScene.prototype.start = function () {
     this.loadModel();
     this.addBorder();
     this.trackMouse();
+    this.addHDR();
     this.animate();
 
 };
@@ -74,6 +75,7 @@ ThreeScene.prototype.addHDR = function () {
         texture.mapping = THREE.EquirectangularReflectionMapping;
         this.scene.environment = texture; // Set as the scene's environment
         this.scene.background = texture; // Optional: Set as background
+        this.data.texture = texture;
     });
 };
 
@@ -286,6 +288,13 @@ ThreeScene.prototype.addDebugGUI = function () {
             // properly scale grid to match size
             this.grid.position.set(0, 0, 0);
             this.grid.scale.set(value / this.baseBorderSize, 1, value / this.baseBorderSize);
+        });
+    guiSettings
+        .add(this.settings, 'hdr', 20, 100)
+        .name('Background HDR')
+        .onChange(value => {
+            this.scene.environment = value ? this.data.texture : null;
+            this.scene.background = value ? this.data.texture : null;
         });
     guiSettings.open();
 
