@@ -19,6 +19,7 @@
     "webpack-cli": "^5.1.4"
   },
   "scripts": {
+    "preinstall": "npx only-allow pnpm",
     "prettier": "npx prettier --write .",
     "watch": "npx webpack watch --mode development",
     "dev": "npx webpack serve --live-reload --mode development --progress",
