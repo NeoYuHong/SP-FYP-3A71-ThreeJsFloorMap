@@ -14,6 +14,8 @@ import skyHDR from '../assets/kloofendal_48d_partly_cloudy_puresky_1k.hdr';
 import storeData from '../assets/data.json';
 import floor1 from '../assets/floor1.glb';
 
+
+
 function ThreeScene() {
 
     this.baseBorderSize = 32;
@@ -47,6 +49,8 @@ ThreeScene.prototype.start = function () {
 
     this.addScene();
     this.addCamera();
+    this.camera.far = 100000;
+    this.camera.updateProjectionMatrix();
     this.startRenderer();
     this.addControls();
     this.onResize();
@@ -197,6 +201,10 @@ ThreeScene.prototype.onHover = function (item) {
     if (this.intersects.length !== 0) {
         if (this.prevObj && this.prevColor && this.intersects[0].object != this.prevObj) {
             this.prevObj.material.color.set(this.prevColor);
+            // this.scene.overrideMaterial = new THREE.MeshBasicMaterial({ color: "green" });
+            // this.prevObj.material = new THREE.MeshBasicMaterial({ color: this.prevColor });
+
+            this.prevObj.material.color.convertSRGBToLinear();
             this.prevColor = null;
             this.prevObj = null;
         }
@@ -367,7 +375,8 @@ ThreeScene.prototype.startRenderer = function () {
     this.renderer = new THREE.WebGLRenderer();
 
     this.renderer.outputColorSpace = THREE.SRGBColorSpace;
-    this.renderer.outputEncoding = THREE.sRGBEncoding;
+    // this.addBorderrenderer.gammaFactor = 2.2;
+    // this.renderer.outputEncoding = THREE.sRGBEncoding;
     this.renderer.physicallyCorrectLights = true;
     this.renderer.shadowMap.enabled = true;
     this.renderer.shadowMap.type = THREE.PCFSoftShadowMap;
