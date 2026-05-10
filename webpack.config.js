@@ -25,53 +25,24 @@ module.exports = {
 	},
 	module: {
 		rules: [
-			{
-				test: /\.js$/,
-				exclude: /(node_modules|bower_components)/,
-				use: {
-					loader: 'babel-loader'
-				}
-			},
+
 			{
 				test: /\.(png|jpe?g|gif)$/i,
-				use: [
-					{
-						loader: 'file-loader'
-					}
-				]
+				type: 'asset/resource'
 			},
 			{
 				test: /\.glb$/,
-				use: [
-					{
-						loader: 'file-loader',
-						options: {
-							name: 'models/[name].[ext]'
-						}
-					}
-				]
+				type: 'asset/resource',
+				generator: {
+					filename: 'models/[name][ext]'
+				}
 			},
 			{
-				test: /\.exr$/,
-				use: [
-					{
-						loader: 'file-loader',
-						options: {
-							name: '[name].[ext]'
-						}
-					}
-				]
-			},
-			{
-				test: /\.hdr$/,
-				use: [
-					{
-						loader: 'file-loader',
-						options: {
-							name: '[name].[ext]'
-						}
-					}
-				]
+				test: /\.(exr|hdr)$/,
+				type: 'asset/resource',
+				generator: {
+					filename: '[name][ext]'
+				}
 			}
 		]
 	}

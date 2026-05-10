@@ -49,8 +49,6 @@ ThreeScene.prototype.start = function () {
 
     this.addScene();
     this.addCamera();
-    this.camera.far = 100000;
-    this.camera.updateProjectionMatrix();
     this.startRenderer();
     this.addControls();
     this.onResize();
@@ -155,6 +153,7 @@ ThreeScene.prototype.loadModel = function () {
         gltf.scene.children.forEach(child => {
             if (child.isMesh) {
                 // child.material.map.encoding = THREE.sRGBEncoding;
+
                 child.castShadow = true;
                 child.receiveShadow = true;
             }
@@ -175,8 +174,9 @@ ThreeScene.prototype.trackMouse = function () {
     document.onmousemove = e => {
         this.mouse.x = (e.clientX / window.innerWidth) * 2 - 1;
         this.mouse.y = -(e.clientY / window.innerHeight) * 2 + 1;
-        this.data.clientX = event.clientX;
-        this.data.clientY = event.clientY;
+        this.data.clientX = e.clientX;
+        this.data.clientY = e.clientY;
+        this.mouseMoved = true;
     };
 };
 
@@ -196,18 +196,20 @@ ThreeScene.prototype.onHover = function (item) {
 
     if (!item) return;
     this.raycaster.setFromCamera(this.mouse, this.camera);
-    this.intersects = this.raycaster.intersectObject(item);
+    this.intersects = this.raycaster.intersectObject(item, true);
 
     if (this.intersects.length !== 0) {
         if (this.prevObj && this.prevColor && this.intersects[0].object != this.prevObj) {
-            this.prevObj.material.color.set(this.prevColor);
+            // this.prevObj.material.color.set(this.prevColor);
             // this.scene.overrideMaterial = new THREE.MeshBasicMaterial({ color: "green" });
             // this.prevObj.material = new THREE.MeshBasicMaterial({ color: this.prevColor });
-
-            this.prevObj.material.color.convertSRGBToLinear();
+            // this.prevObj.material.color.convertSRGBToLinear();
+            this.prevObj.material.color.setHex(this.prevColor);
             this.prevColor = null;
             this.prevObj = null;
         }
+
+
 
         let obj = this.intersects.find(obj => obj.object.userData.isSolid)?.object;
 
@@ -249,15 +251,24 @@ ThreeScene.prototype.onHover = function (item) {
 
         // let obj = intersects[0].object;
 
-        if (!this.prevColor) this.prevColor = new THREE.Color(obj.material.color);
+        // if (!this.prevColor) this.prevColor = new THREE.Color(obj.material.color);
 
-        if (!this.prevObj) this.prevObj = obj;
+        // if (!this.prevObj) this.prevObj = obj;
 
-        let newMat = obj.material.clone();
-        newMat.color.set(0xffff00);
-        obj.material = newMat;
+        // let newMat = obj.material.clone();
+        // newMat.color.set(0xffff00);
+        // obj.material = newMat;
+
+        if (!this.prevColor) {
+            this.prevColor = obj.material.color.getHex();
+            obj.material = obj.material.clone(); // clone ONCE, not every frame
+            obj.material.color.set(0xffff00);
+            this.prevObj = obj;
+        }
+
+
     } else {
-        if (this.prevObj && this.prevColor) this.prevObj.material.color.set(this.prevColor.getHex());
+        if (this.prevObj && this.prevColor) this.prevObj.material.color.setHex(this.prevColor);
 
         popup.style.display = 'none';
         this.data.hovering = 'none';
@@ -272,6 +283,7 @@ ThreeScene.prototype.onHover = function (item) {
 ThreeScene.prototype.addDebugGUI = function () {
     // Create gui for debug
     this.gui = new dat.GUI();
+
 
     // DATA GUI
     const guiData = this.gui.addFolder('Data');
@@ -374,10 +386,13 @@ ThreeScene.prototype.addLight = function () {
 ThreeScene.prototype.startRenderer = function () {
     this.renderer = new THREE.WebGLRenderer();
 
+    this.renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+
     this.renderer.outputColorSpace = THREE.SRGBColorSpace;
     // this.addBorderrenderer.gammaFactor = 2.2;
     // this.renderer.outputEncoding = THREE.sRGBEncoding;
-    this.renderer.physicallyCorrectLights = true;
+    // this.renderer.physicallyCorrectLights = true;
+    this.renderer.useLegacyLights = false;
     this.renderer.shadowMap.enabled = true;
     this.renderer.shadowMap.type = THREE.PCFSoftShadowMap;
 
@@ -397,13 +412,13 @@ ThreeScene.prototype.animate = function () {
         this.stats.end(); // End stats measurement
     }
 
-    if (this.composer) {
-        this.composer.render();
-    }
-
     requestAnimationFrame(this.animate.bind(this));
+    this.controls.update();
     this.renderer.render(this.scene, this.camera);
-    this.onHover(this.floorScene);
+    if (this.mouseMoved) {
+        this.onHover(this.floorScene);
+        this.mouseMoved = false;
+    }
 };
 
 export { ThreeScene };
